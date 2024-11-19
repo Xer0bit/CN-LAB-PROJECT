@@ -12,6 +12,16 @@ This project simulates a space communication system between an Earth station (cl
 - Signal interference simulation
 - Logging and monitoring
 
+## Simulation Example
+
+![Packet Simulation](images/packet_simulation.png)
+*Network simulation showing packet flow between Earth station and Satellite*
+
+## System Architecture
+
+![System Architecture](images/system_diagram.png)
+*High-level architecture diagram of the communication system*
+
 ## Components
 
 - `earth_client.py` - Earth station that sends messages
