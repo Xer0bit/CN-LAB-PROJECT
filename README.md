@@ -14,12 +14,12 @@ This project simulates a space communication system between an Earth station (cl
 
 ## Simulation Example
 
-![Packet Simulation](images/packet_simulation.png)
+![Packet Simulation](https://raw.githubusercontent.com/Xer0bit/CN-LAB-PROJECT/refs/heads/main/images/exmaple%20usage.png)
 *Network simulation showing packet flow between Earth station and Satellite*
 
 ## System Architecture
 
-![System Architecture](images/system_diagram.png)
+![System Architecture](https://raw.githubusercontent.com/Xer0bit/CN-LAB-PROJECT/refs/heads/main/images/complete.png)
 *High-level architecture diagram of the communication system*
 
 ## Components
