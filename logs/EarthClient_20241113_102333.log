@@ -1,0 +1,27 @@
+2024-11-13 10:23:45,173 - EarthClient - INFO - Connection attempt 1/3
+2024-11-13 10:23:45,173 - EarthClient - INFO - Successfully connected to satellite server
+2024-11-13 10:23:45,174 - EarthClient - INFO - Starting data transmission
+2024-11-13 10:23:45,174 - EarthClient - INFO - 
+Sending packet 1/1
+2024-11-13 10:23:47,252 - EarthClient - INFO - Packet acknowledged
+2024-11-13 10:23:47,252 - EarthClient - INFO - 
+Transmission summary:
+2024-11-13 10:23:47,252 - EarthClient - INFO - Total packets: 1
+2024-11-13 10:23:47,252 - EarthClient - INFO - Successfully sent: 1
+2024-11-13 10:23:47,253 - EarthClient - INFO - Failed: 0
+2024-11-13 10:23:47,253 - EarthClient - INFO - Connection closed
+2024-11-13 10:25:06,529 - EarthClient - INFO - Connection attempt 1/3
+2024-11-13 10:25:06,542 - EarthClient - INFO - Successfully connected to satellite server
+2024-11-13 10:25:06,542 - EarthClient - INFO - Starting data transmission
+2024-11-13 10:25:06,543 - EarthClient - INFO - 
+Sending packet 1/2
+2024-11-13 10:25:09,235 - EarthClient - INFO - Packet acknowledged
+2024-11-13 10:25:09,236 - EarthClient - INFO - 
+Sending packet 2/2
+2024-11-13 10:25:10,351 - EarthClient - INFO - Packet acknowledged
+2024-11-13 10:25:10,351 - EarthClient - INFO - 
+Transmission summary:
+2024-11-13 10:25:10,351 - EarthClient - INFO - Total packets: 2
+2024-11-13 10:25:10,352 - EarthClient - INFO - Successfully sent: 2
+2024-11-13 10:25:10,352 - EarthClient - INFO - Failed: 0
+2024-11-13 10:25:10,352 - EarthClient - INFO - Connection closed

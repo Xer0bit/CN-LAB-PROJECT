@@ -1,0 +1,6 @@
+2024-11-13 10:33:00,374 - SatelliteServer - INFO - Server initialized on 172.25.1.95:65432
+2024-11-13 10:33:00,383 - SatelliteServer - INFO - Starting server...
+2024-11-13 10:33:35,988 - SatelliteServer - INFO - New transmission detected from ('172.25.1.95', 52454)
+2024-11-13 10:33:39,288 - SatelliteServer - INFO - Received: hi
+2024-11-13 10:33:39,342 - SatelliteServer - INFO - End of transmission received
+2024-11-13 10:33:39,345 - SatelliteServer - INFO - Complete transmission received: hi

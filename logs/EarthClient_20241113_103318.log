@@ -1,0 +1,13 @@
+2024-11-13 10:33:35,988 - EarthClient - INFO - Connection attempt 1/3
+2024-11-13 10:33:35,988 - EarthClient - INFO - Successfully connected to satellite server
+2024-11-13 10:33:35,995 - EarthClient - INFO - Starting data transmission
+2024-11-13 10:33:35,995 - EarthClient - INFO - 
+Sending packet 1/1
+2024-11-13 10:33:39,288 - EarthClient - DEBUG - Transmitting: hi
+2024-11-13 10:33:39,288 - EarthClient - INFO - Packet acknowledged
+2024-11-13 10:33:39,288 - EarthClient - INFO - 
+Transmission summary:
+2024-11-13 10:33:39,296 - EarthClient - INFO - Total packets: 1
+2024-11-13 10:33:39,342 - EarthClient - INFO - Successfully sent: 1
+2024-11-13 10:33:39,342 - EarthClient - INFO - Failed: 0
+2024-11-13 10:33:39,342 - EarthClient - INFO - Connection closed

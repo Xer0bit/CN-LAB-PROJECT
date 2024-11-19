@@ -1,0 +1,27 @@
+
+
+# Utility Dependencies
+hashlib
+random
+time
+threading
+
+# Project Information
+# Space Communication Emulator v1.0
+# Minimum Python Version: 3.7+
+# 
+# Project Structure:
+# - satellite_server.py: Satellite communication server (run first)
+# - earth_client.py: Earth station client (run second)
+# - utils.py: Utility functions for error handling and checksums
+#
+# How to run:
+# 1. Terminal 1: python satellite_server.py
+# 2. Terminal 2: python earth_client.py
+#
+# Features:
+# - TCP Socket Communication
+# - Packet Error Simulation
+# - Checksum Verification
+# - Delayed Transmission Simulation
+# - ACK/NACK Protocol
